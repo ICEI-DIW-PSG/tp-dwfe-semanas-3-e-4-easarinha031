@@ -1,9 +1,12 @@
 # Trabalho Prático - Semanas 3 e 4
 
 ## Informações Gerais
-- Nome: 
-- Matricula:
+- Nome: Sara Assis Figueiredo Dias
+- Matricula: 918871
 
-## Print da tela da página criada (Curriculum Vitae)
+## Print da inspeção de rede
+![Print da inspeção de rede](public/print_index.png2.png)
 
-`<Coloque aqui o print da tela do Curriculum Vitae>`
+## Print da visualização do index.html
+![Print do Hello World](public/print_index.png1.png)
+
